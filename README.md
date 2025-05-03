@@ -66,9 +66,9 @@ Mathster accepts the following voice commands:
 
 
 ### Authors
+- Julian Ondrey - Scrum Master
 - Brianna Jackson
 - Connor Johnson
-- Julian Ondrey
 - Stell Shuman-Thomas
 - Tyler Snow
 - Akeel Hanchard
